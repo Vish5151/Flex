@@ -314,19 +314,19 @@
 
 .category1-image
 {
-    background: url(/Flex/Images/chair-1.jpg);
+    background: url(/Images/chair-1.jpg);
 }
 .category2-image
 {
-    background: url(/Flex/Images/bed.jpg);
+    background: url(/Images/bed.jpg);
 }
 .category3-image
 {
-    background: url(/Flex/Images/lamp-1.jpg);
+    background: url(/Images/lamp-1.jpg);
 }
 .category4-image
 {
-    background: url(/Flex/Images/table.jpg);
+    background: url(/Images/table.jpg);
 }
 
 .category1-image,.category2-image,.category3-image,.category4-image
@@ -345,25 +345,25 @@
 .category1-image:hover
 {
     background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)),
-    url(/Flex/Images/chair-1.jpg);
+    url(/Images/chair-1.jpg);
 }
 
 .category2-image:hover
 {
     background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)),
-    url(/Flex/Images/bed.jpg);
+    url(/Images/bed.jpg);
 }
 
 .category3-image:hover
 {
     background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)),
-    url(/Flex/Images/lamp-1.jpg);
+    url(/Images/lamp-1.jpg);
 }
 
 .category4-image:hover
 {
     background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)),
-    url(/Flex/Images/table.jpg);
+    url(/Images/table.jpg);
 }
 
 .category1-image:hover,.category2-image:hover,.category3-image:hover,.category4-image:hover
@@ -421,7 +421,7 @@
 {
     height: 410px;
     padding: 32px 0px 0px 0px;
-    background: url(/Flex/Images/banner-0.jpg);
+    background: url(/Images/banner-0.jpg);
     background-size: 100%;
     transition: 0.5s;
     background-position: 0px 5px;
@@ -451,7 +451,7 @@
 
 .cabinet-offer
 {
-    background: url(/Flex/Images/banner-1.jpg);
+    background: url(/Images/banner-1.jpg);
     padding: 41px;
     height: 340px;
     background-size: cover;
@@ -483,7 +483,7 @@
 {
     width: 50%;
     height: 750px;
-    background: url(/Flex/Images/banner-2.jpg);
+    background: url(/Images/banner-2.jpg);
     text-align: center;
     padding: 68px;
     flex-direction: column;
@@ -597,7 +597,7 @@
     margin-bottom: 120px;
     display: flex;
     align-items: center;
-    background: url(/Flex/Images/banner-3.jpg);
+    background: url(/Images/banner-3.jpg);
     background-size: cover;
     background-position: 0px -200px;
     background-repeat: no-repeat;
@@ -924,7 +924,7 @@ color: black;
 .blog-image1
 {
     width: 48%;
-    background: url(/Flex/Images/blog-1-1174x862.jpg);
+    background: url(/Images/blog-1-1174x862.jpg);
     background-size: 110%;
     background-position: center;
     position: relative;
@@ -935,7 +935,7 @@ color: black;
 .blog-image2
 {
     width: 24%;
-    background: url(/Flex/Images/blog-2-1174x862.jpg);
+    background: url(/Images/blog-2-1174x862.jpg);
     background-size: 100vh;background-position: left;
     position: relative;
     background-repeat: no-repeat;
@@ -1037,7 +1037,7 @@ color: black;
     padding-top: 200px ;
     padding-bottom: 200px;
     background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/Flex/Images/video-placeholder.jpg);
+    url(/Images/video-placeholder.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
